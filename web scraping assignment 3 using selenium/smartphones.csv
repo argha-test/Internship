@@ -1,0 +1,25 @@
+,Brand_Name,Smartphone_name,Colour,RAM,Storage_ROM,Primary_Camera,Secondary_Camera,Display_Size,Display_Resolution,Processor,Processor_Cores,Battery_Capacity,Price
+0,APPLE,"APPLE iPhone SE (Black, 64 GB)",-,-,-,-,-,-,-,-,-,-,"₹27,999"
+1,APPLE,"APPLE iPhone SE (White, 64 GB)",-,-,-,-,-,-,-,-,-,-,"₹27,999"
+2,POCO,"POCO C31 (Shadow Gray, 64 GB)  (4 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹9,499"
+3,realme,"realme Narzo 50A (Oxygen Blue, 64 GB)  (4 GB RAM)",Oxygen Blue,4 GB,64 GB,50MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,MediaTek Helio G85,Octa Core,75.9 mm,"₹11,499"
+4,MOTOROLA,"MOTOROLA e40 (Pink Clay, 64 GB)  (4 GB RAM)",Pink Clay,4 GB,64 GB,48MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,UNISOC T700,Octa Core,75.6 mm,"₹9,999"
+5,REDMI,"REDMI 9i (Sea Blue, 64 GB)  (4 GB RAM)",Sea Blue,4 GB,64 GB,13MP Rear Camera,5MP Front Camera,16.59 cm (6.53 inch),1600 x 720 Pixels,MediaTek Helio G25,Octa Core,5000 mAh,"₹8,799"
+6,realme,"realme Narzo 50A (Oxygen Green, 64 GB)  (4 GB RAM)",Oxygen Green,4 GB,64 GB,50MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,MediaTek Helio G85,Octa Core,75.9 mm,"₹11,499"
+7,realme,"realme Narzo 50A (Oxygen Blue, 128 GB)  (4 GB RAM)",Oxygen Blue,4 GB,128 GB,50MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,MediaTek Helio G85,Octa Core,75.9 mm,"₹12,499"
+8,POCO,"POCO M3 (Yellow, 64 GB)  (6 GB RAM)",Yellow,6 GB,64 GB,48MP + 2MP + 2MP,8MP Front Camera,16.59 cm (6.53 inch),2340 x 1080 Pixels,Qualcomm Snapdragon 662,Octa Core,77.3 mm,"₹11,499"
+9,MOTOROLA,"MOTOROLA e40 (Carbon Gray, 64 GB)  (4 GB RAM)",Carbon Gray,4 GB,64 GB,48MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,UNISOC T700,Octa Core,75.6 mm,"₹9,999"
+10,realme,"realme 8s 5G (Universe Purple, 128 GB)  (6 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹17,999"
+11,REDMI,"REDMI 9i (Midnight Black, 64 GB)  (4 GB RAM)",Midnight Black,4 GB,64 GB,13MP Rear Camera,5MP Front Camera,16.59 cm (6.53 inch),1600 x 720 Pixels,MediaTek Helio G25,Octa Core,5000 mAh,"₹8,799"
+12,realme,"realme Narzo 50A (Oxygen Green, 128 GB)  (4 GB RAM)",Oxygen Green,4 GB,128 GB,50MP + 2MP + 2MP,8MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,MediaTek Helio G85,Octa Core,75.9 mm,"₹12,499"
+13,realme,"realme 8s 5G (Universe Purple, 128 GB)  (8 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹19,999"
+14,realme,"realme 8s 5G (Universe Blue, 128 GB)  (6 GB RAM)",-,-,-,-,-,-,-,-,-,-,-
+15,realme,"realme Narzo 50i (Mint Green, 32 GB)  (2 GB RAM)",Mint Green,2 GB,32 GB,8MP Rear Camera,5MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,SC9863A,Octa Core,76.4 mm,"₹7,299"
+16,realme,"realme Narzo 50i (Carbon Black, 32 GB)  (2 GB RAM)",Carbon Black,2 GB,32 GB,8MP Rear Camera,5MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,SC9863A,Octa Core,76.4 mm,"₹7,299"
+17,realme,"realme C11 2021 (Cool Blue, 32 GB)  (2 GB RAM)",-,-,-,-,-,-,-,-,-,-,-
+18,realme,"realme C11 2021 (Cool Grey, 32 GB)  (2 GB RAM)",-,-,-,-,-,-,-,-,-,-,-
+19,realme,"realme Narzo 50i (Carbon Black, 64 GB)  (4 GB RAM)",Carbon Black,4 GB,64 GB,8MP Rear Camera,5MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,SC9863A,Octa Core,76.4 mm,"₹8,999"
+20,realme,"realme Narzo 50i (Mint Green, 64 GB)  (4 GB RAM)",Mint Green,4 GB,64 GB,8MP Rear Camera,5MP Front Camera,16.51 cm (6.5 inch),1600 x 720 Pixels,SC9863A,Octa Core,76.4 mm,"₹8,999"
+21,realme,"realme 8s 5G (Universe Blue, 128 GB)  (8 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹19,999"
+22,realme,"realme 8i (Space Purple, 64 GB)  (4 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹13,999"
+23,realme,"realme 8i (Space Black, 64 GB)  (4 GB RAM)",-,-,-,-,-,-,-,-,-,-,"₹13,999"
